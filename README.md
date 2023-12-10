@@ -1,11 +1,13 @@
-class Animal {
-     private String name;
-     private int id;
-     private int age;
-     public void setName(String name){
-         this.name=name;
-     }
-     public void eat() {
-         System.out.println("Eating");
-     }
-}
+1 - Üniversiteye ait sınıflıklar, çalışma ofisleri ve departmanlar vardır.
+
+
+2 - Departmanlara ait ofisler vardır.
+
+
+3 - Üniversiteye ait çalışanlar vardır. Bu çalışanlar profesör veya memur olabilir.
+
+
+4 - Her çalışan bir ofiste çalışır.
+
+
+Bu sistemi tasvir eden Class (Sınıf) diyagramını çiziniz.
